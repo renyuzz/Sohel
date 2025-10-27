@@ -97,3 +97,10 @@ document.getElementById("nameInput").addEventListener("keydown", function(event)
 });
 </script></body>
 </html>
+echo "# Sohel." >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/renyuzz/Sohel..git
+ git push -u origin mainu origin mainu
